@@ -163,6 +163,13 @@ bre2el
 - [It Takes a Pillage](https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage) by izofar
 - [Applied Mekanistics](https://modrinth.com/mod/applied-mekanistics) by ramidzkh
 - [Applied Botanics](https://modrinth.com/mod/applied-botanics) by ramidzkh
+- [Create Central Kitchen](https://www.curseforge.com/minecraft/mc-mods/create-central-kitchen)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
+- [Simple Shops](https://www.curseforge.com/minecraft/mc-mods/simple-shops)
+- [Reauth](https://www.curseforge.com/minecraft/mc-mods/reauth)
+- [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse)
 
 ## License
 
