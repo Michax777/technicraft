@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "immersive_engineering"
+	group: "6BE9C28BA6F9AD3D"
+	icon: "immersiveengineering:wirecoil_copper"
+	id: "2958507EF8F5319B"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "Immersive Engineering"
+}
