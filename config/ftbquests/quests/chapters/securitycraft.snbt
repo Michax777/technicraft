@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "securitycraft"
+	group: "6BE9C28BA6F9AD3D"
+	icon: "securitycraft:username_logger"
+	id: "7744F10E514BBCC7"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "SecurityCraft"
+}
